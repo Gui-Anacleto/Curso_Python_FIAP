@@ -1,4 +1,4 @@
-from Funcao.identificacaoFuncoes import *
+from pacoteMain.pacote_main import *
 
 minhaLista=[]
 print("Preenchendo")
